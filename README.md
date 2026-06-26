@@ -77,17 +77,9 @@ A curated collection of documentation, tutorials, repositories, and diagrams for
 
 ---
 
-## 4. NGINX, WordPress & Full Stack Integration
+## 4. NGINX
 
-*Connecting the Reverse Proxy to the Application Engine.*
-
-* **NGINX:**
 * [NginX Crash Course](https://www.youtube.com/watch?v=hcw-NjOh8r0)
-
-
-* **Full Stack Implementations:**
-* [Dev.to: Docker + Nginx + WordPress + MariaDB Tutorial (Inception 42)](https://dev.to/alejiri/docker-nginx-wordpress-mariadb-tutorial-inception42-1eok)
-* [Medium: WordPress Deployment with Nginx, PHP-FPM, and MariaDB using Docker-Compose](https://medium.com/swlh/wordpress-deployment-with-nginx-php-fpm-and-mariadb-using-docker-compose-55f59e5c1a)
 
 
 
